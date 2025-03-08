@@ -45,7 +45,7 @@ Jika menggunakan **Google Colab**, jalankan kode berikut:
 ```python
 !pip install streamlit pyngrok
 from pyngrok import ngrok
-!streamlit run ecommerce_dashboard.py & npx localtunnel --port 8501
+!streamlit run Train_Streamlit.py & npx localtunnel --port 8501
 ```
 Link akan muncul untuk mengakses dashboard secara online.
 
